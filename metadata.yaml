@@ -1,0 +1,26 @@
+_repo: Around-Old-Bethany--13-A-Story-of-the-Adventures-of-Robert-and-Mary-Davis_12616
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Berry, R. L. (Robert Lee)
+    alias: Berry, Robert Lee
+    birthdate: 1874
+    deathdate: 1952
+    gutenberg_agent_id: '2304'
+    url: http://www.gutenberg.org/2009/agents/2304
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of God (Anderson, Ind.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Christian fiction'
+- GITenberg
+title: "Around Old Bethany\r\nA Story of the Adventures of Robert and Mary Davis"
+url: http://www.gutenberg.org/ebooks/12616
